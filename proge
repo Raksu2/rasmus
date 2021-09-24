@@ -1,0 +1,68 @@
+create
+read
+update
+delete
+</style>
+
+
+Array CRUD
+create
+[]
+["test"2,3,null]
+console.log([])
+let list = []
+let list = ["test"2,3,null]
+let fruits = ["apple","banana","pear"]
+//Read
+list  [0] // "test"
+list  [1] // 2
+list  [2] // 3
+list  [3] // null
+list  [4] // undefined
+fruits.idexOf("pear") // -1'
+fruits.includes("apple") // 2
+fruits.includes8"pear") // false
+list.filter(elem => elem > 0) // 2,3
+//#region Read
+// Update
+fruits.push("kiwi")
+// Delete
+fruits[4] = "watermelon"
+fruits.splice(2,0,"plum") // et lisab ta kusagile kolmadaks või vahele
+list.lenght
+// vimane element 
+fruits.lenght-1
+fruits
+4 + 6 + 2
+(4+6) + 2
+fruits[a].lenght
+(fruits[a]).lenght
+<ul>
+  <li>Crossroad Gardens, 88</li>
+  <li class="red green">Strawberry Mountains Lands, 88 </li>
+  <liu Class="green">Weeping Willow Acres, 88</li>
+  </ul>
+  <script>
+  let a= 123;
+  console.log(a)
+  document.body
+  
+  
+  
+  
+  
+  DOM CRUD
+  //create
+  // Read
+  document.queryselector(".red") // <
+  document.querySelectorAll("red")
+  //Update
+  element.classname = "green"
+let element = document.createElement("li")
+document.body.append
+li.append("test2")
+console.log(offers[0][0])                                                       
+console.log(offers[1][0])                                                                 
+console.log(offers[0][1]) 
+console.log(offers[1][1])       
+offers=[["crossroad Gardens","88"],["Strawberry Mountain Lands","57"]]                                                              
