@@ -1,0 +1,29 @@
+let parool = Math.floor(Math.random() * 10 + 1
+console.log(parool)
+password = prompt("sisesta üks number 1-10-ni")
+if (password == parool)
+console.log("YAY! sa pakkusid õige numbri!")
+else if (password - 1 ==parool // password + 1 == parool)
+console.log("oled lähedal")
+else
+console.log("Arv, mis sa pakkusid ei olnud õige.")
+
+
+let katseidjarel = 3;
+
+parool = Math.floor(Math.random() * 10 + 1;
+console.log(parool);
+while(katseidjarel > 0){
+sign = prompt("sisesta üks number 1-10-ni");
+console.log(parool,sign)
+else if (sign - 1 ==parool // sign + 1 == parool)
+console.log("oled lähedal")
+}
+if (sign == parool){
+console.log("YAY! sa pakkusid õige numbri!");
+break;
+}
+else
+  console.log("Arv, mis sa pakkusid ei olnud õige.");
+katseidjarel -=1;
+}
