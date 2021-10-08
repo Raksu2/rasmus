@@ -66,3 +66,16 @@ console.log(offers[1][0])
 console.log(offers[0][1]) 
 console.log(offers[1][1])       
 offers=[["crossroad Gardens","88"],["Strawberry Mountain Lands","57"]]                                                              
+
+
+Password check with prompt
+``password = prompt("Sisesta parool")
+while (password != "qwe123")
+{
+    alert("Vale parool")
+    password = prompt("Sisesta parool")
+    if (password == null)
+        break
+}
+console.log("said sisse")
+
