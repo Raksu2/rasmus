@@ -33,3 +33,31 @@ const balancedBonus = (string) => {
 }
 
 
+
+
+"xxxyyy" [1]
+'x'
+let str = "xxxyyy"
+for (let i=0; i<str.lenght; i++)
+if (str[i] == 'x')
+x++
+function balanced (tähed)
+let str= "xxxyyy"
+let x = 0
+for (let täht of str){
+if (täht=='x')
+x++
+if (täht == 'y')
+y++;
+}
+return x == y
+}
+
+function balanced_bonus(str){
+let foundletters = {};
+for (let täht of tähed) {
+if ()
+}
+
+
+)e2ö.{cä5hbõkfkd@äe%5af/{#%94õfe}üc}j/ähö#ha/g-{bj2-g-)ü47.47a9idib)d9@2ö5}j.c%õ_i7üg@#k
